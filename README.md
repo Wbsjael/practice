@@ -1,3 +1,3 @@
 # Practice repo
 
-THIS IS A Repository
+THIS IS A Repo
